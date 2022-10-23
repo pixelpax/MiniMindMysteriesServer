@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMindMysteriesServer", "MiniMindMysteriesServer\MiniMindMysteriesServer.csproj", "{8CF9E895-45D5-4A05-A869-F3B7283264DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMindMysteriesServer", "MiniMindMysteriesServer\MiniMindMysteriesServer.csproj", "{BF29AB50-CF78-4029-8FCD-FB96D092D2CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8CF9E895-45D5-4A05-A869-F3B7283264DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8CF9E895-45D5-4A05-A869-F3B7283264DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8CF9E895-45D5-4A05-A869-F3B7283264DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8CF9E895-45D5-4A05-A869-F3B7283264DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF29AB50-CF78-4029-8FCD-FB96D092D2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF29AB50-CF78-4029-8FCD-FB96D092D2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF29AB50-CF78-4029-8FCD-FB96D092D2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF29AB50-CF78-4029-8FCD-FB96D092D2CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

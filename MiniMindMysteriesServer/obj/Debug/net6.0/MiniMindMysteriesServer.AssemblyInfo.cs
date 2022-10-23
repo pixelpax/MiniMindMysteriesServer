@@ -10,7 +10,6 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-MiniMindMysteriesServer-283E9B49-F7F1-4E47-819B-6E291240AE60")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniMindMysteriesServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
